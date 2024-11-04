@@ -1,7 +1,0 @@
-**/wp-content/uploads
-**/wp-content/cache
-**/wp-content/advanced-cache.php
-**/wp-content/uploads-webpc
-**/wp-content/wp-rocket-config
-.htaccess
-wp-config.php
